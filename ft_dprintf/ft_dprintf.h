@@ -9,8 +9,8 @@
 /*   Updated: 2025/08/09 16:17:59 by pecastro         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#ifndef FT_PRINTF_H
-# define FT_PRINTF_H
+#ifndef FT_DPRINTF_H
+# define FT_DPRINTF_H
 
 # include <stdarg.h>
 # include <stdio.h>
